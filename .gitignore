@@ -1,0 +1,6 @@
+# Envs
+.env
+
+# Misc
+cosign.pub
+http_ca.crt
